@@ -1,0 +1,82 @@
+/*=======================
+# General
+=======================*/
+html{
+    scroll-padding-top: 60px;
+}
+
+section{
+    padding: 60px;
+    color: #5e5d5b;
+}
+
+.emphasize{
+    color: #F7F5EB;
+}
+
+/*=======================
+# Header
+=======================*/
+
+.header{
+    background-color: #EAC7C7;
+}
+
+.navbar a{
+    color: white;
+}
+
+
+
+/*=======================
+# About
+=======================*/
+.about{
+    background-color: #EAC7C7;
+    height: 100vh;
+}
+
+
+
+/*=======================
+# Skills
+=======================*/
+.skills h2{
+    color: #EAC7C7;
+}
+
+.skill-type{
+    height: 100%;
+}
+
+/*=======================
+# Work
+=======================*/
+.work{
+    background-color: #A0C3D2;
+}
+
+.work h2{
+    color: #F7F5EB;
+}
+
+/*=======================
+# Education
+=======================*/
+.education h2{
+    color: #EAC7C7;
+}
+
+
+/*=======================
+# Footer
+=======================*/
+.footer{
+    background-color: #EAE0DA;
+    padding: 60px;
+    color: #5e5d5b;
+}
+
+.footer a{
+    color: #5e5d5b;
+}
