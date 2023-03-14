@@ -1,6 +1,6 @@
 # Readme
 
-## Readme
+## Description
 Personal website.
 
 ## Skills
